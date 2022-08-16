@@ -6,6 +6,11 @@ public class Context {
        this.strategy = strategy;
     }
 
+
+
+
+    
+
     public int executeStrategy(int k, int x, int y){
      return  strategy.doOperation(k, x, y);
     }
