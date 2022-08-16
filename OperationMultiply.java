@@ -4,6 +4,7 @@ public class OperationMultiply implements Strategy {
     public int doOperation(int k, int x, int y) {
         //dsfdsfsdf
         //dfsfdsdfdsfsdf
+       //hjgthjgtjtg
         return (k*x*y);
     }
 
